@@ -1,3 +1,5 @@
+
+;as seem on http://pedestal.io/guides/what-is-an-interceptor
 (ns pedestal-lesson.server
   (:require [io.pedestal.http :as http]
             [io.pedestal.interceptor.chain :as chain]
